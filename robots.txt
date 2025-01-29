@@ -23,6 +23,9 @@ Disallow: /
 User-agent: 008
 Disallow: /
 
+User-agent: DeepSeek Bot
+Disallow: /
+
 User-agent: ADmantX
 Disallow: /
 
@@ -152,4 +155,4 @@ Disallow: /
 User-agent: ZumBot
 Disallow: /
 
-Sitemap: https://yours.com/sitemap.xml
+Sitemap: https://zigmoon.com/sitemap.xml
